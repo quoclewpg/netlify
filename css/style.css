@@ -465,6 +465,7 @@ hr {
     font-size: 14px;
     padding: 24px 0 0;
     border-bottom: none;
+    margin-top: 40px;
 }
 
 .notes-left,
@@ -577,7 +578,7 @@ hr {
 }
 
 .parallax-1 {
-    background-image: url(../images/user/netlify.jpg);
+    background-color: #6699ff;
 }
 
 .parallax-2 {
